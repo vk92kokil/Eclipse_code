@@ -1,0 +1,4 @@
+String class is immutable class but 
+
+StringBuffer class is a mutable class.
+It is like a String that can be modified.Through certain method calls the length and content of string buffer can be changed.
